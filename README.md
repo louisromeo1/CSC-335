@@ -1,5 +1,6 @@
 # CSC 335
 Author: Louis Romeo
-- Contains all projects from the course, focusing on Object-Oriented Programming and Design.
-- The Jukebox project was a collaborative effort with one partner.
-- The Final Project consists of a Memory Card game, which was a team project (3 others). 
+- Object-Oriented Programming and Design at the University of Arizona, Spring 2023.
+- All projects written in Java 
+- Both Jukebox and Final Project were collaborative, Jukebox was done with a partner and the Final Project was done in groups of 4.
+- Showcases a thorough knowledge of object-oriented design principles and paradigms.
