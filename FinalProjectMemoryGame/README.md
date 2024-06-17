@@ -2,12 +2,13 @@
 - Seth Jernigan (Team Manager)
 - Kyle Myint
 - Louis Romeo
-- Mustafa Alnidawi ( PLEASE NOTE - Mustafa is not showing up as a contributor, but you can view his commits in the list of commits )
+- Mustafa Alnidawi
 
 # Project: Memory Game
+- Completed in 4 sprints.
 - [Taiga](https://tree.taiga.io/project/sethj50-memorycardgame335/timeline)
 - [Video going through project](https://arizona.zoom.us/rec/share/iggPnHen28yK_grdw7FG-OYbsG3mcv2BWDaK3V98j8UWUEks5WqYnG3nDIWKZPwd.-OytuMyAVIH5ZH5n?startTime=1714519559000)
- - There may be delays or inconsistencies in the video as there were severe lag issues while recording
+ - There may be delays or inconsistencies in the video as there were severe lag issues while recording.
 
 ## Project Description
 
@@ -20,3 +21,5 @@ Our project is a Memory Game which is played by flipping over cards to make matc
 
 - Power Card game mode
   - This game mode is unique as it has cards that, when revealed, have special effects. For example, the Star card will automatically reveal a matching card for the other card you select. The bomb card will show you all of the surrounding cards for you to quickly memorize before they flip back over.
+
+FINAL GRADE: 200/200
